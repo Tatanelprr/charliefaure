@@ -4,8 +4,8 @@
 	--bg-input: #1e1e1e;
 	--text-main: #ffffff;
 	--text-muted: #a0a0a0;
-	--accent-gradient: linear-gradient(90deg, #d946ef, #a855f7);
-	--accent-solid: #d946ef;
+	--accent-gradient: linear-gradient(90deg, #ff8fb5, #ffb3d1);
+	--accent-solid: #ff8fb5;
 }
 
 * {
