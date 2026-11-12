@@ -14,6 +14,12 @@
 
 ---
 
+## 🌐 En ligne
+
+https://tatanelprr.github.io/charliefaure/
+
+---
+
 ## 📄 À propos du projet
 
 Ce site a été conçu pour présenter l'univers scénique et les performances de **Charlie Faure**, artiste de cirque contemporain. Il sert de carte de visite numérique pour les directeurs de casting, les compagnies et le public.
