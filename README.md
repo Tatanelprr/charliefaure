@@ -18,10 +18,10 @@
 
 Ce site a été conçu pour présenter l'univers scénique et les performances de **Charlie Faure**, artiste de cirque contemporain. Il sert de carte de visite numérique pour les directeurs de casting, les compagnies et le public.
 
-L'interface a été pensée pour être élégante et épurée, laissant toute la place aux visuels (photos et vidéos) et à la fluidité du mouvement.
+L'interface a été pensée pour être élégante et épurée, laissant toute la place aux visuels et à la fluidité du mouvement.
 
 ### 🎯 Points clés
-- **Immersion Visuelle** : Design sobre mettant en valeur les photos de scène et captations vidéos.
+- **Immersion Visuelle** : Design sobre mettant en valeur les photos de scène.
 - **Fluidité** : Navigation intuitive et transitions douces pour refléter l'univers artistique.
 - **Responsive** : Optimisé pour une consultation sur mobile, tablette et desktop.
 
